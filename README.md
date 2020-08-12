@@ -3,3 +3,5 @@
 
 # 12/08/2020 - Added icon.png,icon.svg in /pix/ 
 # 12/08/2020 - $string['pluginname'] = 'My first Moodle plugin'; added in lang/en/paulmffrench-dev.php
+
+# testing git tag 
